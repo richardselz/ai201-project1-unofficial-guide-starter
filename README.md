@@ -9,31 +9,24 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+The OMSCS program at Georgia Institute of Technology (GaTech) has pages for all of their online courses. These pages provide details about such as the overview, course goals, and before taking this class (suggested background knowledge).
 
 ---
 
 ## Document Sources
 
-<!-- List every source you collected documents from.
-     Be specific: include URLs, subreddit names, forum thread titles, or file names.
-     Aim for variety — sources that together cover different subtopics or perspectives. -->
-
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | OMSCS | URL | https://omscs.gatech.edu/cs-6035-introduction-information-security |
+| 2 | OMSCS | URL | https://omscs.gatech.edu/cs-6150-computing-good |
+| 3 | OMSCS | URL | https://omscs.gatech.edu/cs-6200-introduction-operating-systems |
+| 4 | OMSCS | URL | https://omscs.gatech.edu/cs-6210-advanced-operating-systems |
+| 5 | OMSCS | URL | https://omscs.gatech.edu/cs-6211-system-design-cloud-computing |
+| 6 | OMSCS | URL | https://omscs.gatech.edu/cs-6238-secure-computer-systems |
+| 7 | OMSCS | URL | https://omscs.gatech.edu/cs-6250-computer-networks |
+| 8 | OMSCS | URL | https://omscs.gatech.edu/cs-6260-applied-cryptography |
+| 9 | OMSCS | URL | https://omscs.gatech.edu/cs-6261-security-incident-response |
+| 10 | OMSCS | URL | https://omscs.gatech.edu/cs-6262-network-security |
 
 ---
 
