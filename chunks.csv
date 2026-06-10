@@ -1,0 +1,419 @@
+id,source_file,course,section,chunk_index,word_count,text
+cs-6035-instructional-team-0,cs-6035.txt,CS 6035: Introduction to Information Security,Instructional Team,0,17,"CS 6035: Introduction to Information Security — Instructional Team
+Wenke Lee
+Creator, Instructor
+Chris Taylor
+Head TA"
+cs-6035-overview-0,cs-6035.txt,CS 6035: Introduction to Information Security,Overview,0,83,"CS 6035: Introduction to Information Security — Overview
+Introduction to Information Security is a graduate-level introductory course in information security. It teaches the basic concepts and principles of information security and the fundamental approaches to secure computers and networks. Its main topics include: security basics; security management and risk assessment; software security; operating systems security; database security; cryptography algorithms and protocols; network authentication and secure network applications; malicious malware; network threats and defenses; web security; mobile security; legal and ethical issues; and privacy."
+cs-6035-course-content-0,cs-6035.txt,CS 6035: Introduction to Information Security,Course Content,0,57,"CS 6035: Introduction to Information Security — Course Content
+To access the public version of this course's content, click
+here
+, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link."
+cs-6035-before-taking-this-c-0,cs-6035.txt,CS 6035: Introduction to Information Security,Before Taking This Class...,0,124,"CS 6035: Introduction to Information Security — Before Taking This Class...
+Suggested Background Knowledge
+Qualifications for taking this class adhere with the
+Admission Criteria
+given by Georgia Institute of Technology. Upon entering this class, it is assumed that students have completed an undergraduate degree in computer science or a related field.
+CS 6035 Relevant Technical Information:
+Basic Information Security Prerequisites
+Project and Technical Prerequisites
+Technical Requirements and Software
+Important Information for CS 6035
+A few notes on Virtual Machines (VMs):
+Apple ARM-based SoCs are
+NOT
+supported in this course.
+Due to technical limitations, only an Intel-based VM is provided.
+You will be provided VMs in this class that were built using VirtualBox.
+This course
+DOES NOT
+support or test with any other virtualization software."
+cs-6035-academic-integrity-0,cs-6035.txt,CS 6035: Introduction to Information Security,Academic Integrity,0,42,"CS 6035: Introduction to Information Security — Academic Integrity
+All Georgia Tech students are expected to uphold the
+Georgia Tech Academic Honor Code
+. Please refer to the
+CS 6035 Academic Honesty
+section of the current syllabus for further course specific information."
+cs-6150-instructional-team-0,cs-6150.txt,CS 6150: Computing for Good,Instructional Team,0,20,"CS 6150: Computing for Good — Instructional Team
+Santosh Vempala
+Creator, Instructor
+Justin McLellan
+Head TA
+Mitchell Rysavy
+Head TA"
+cs-6150-overview-0,cs-6150.txt,CS 6150: Computing for Good,Overview,0,169,"CS 6150: Computing for Good — Overview
+How can computing help make the world a better place? Can we avoid wars, alleviate homelessness and improve global health using computers? What are the technical challenges that arise and what humanistic issues have to be taken into account and understood in the process? In this C4G course, we explore problems faced by developing countries and underserved populations from a computing perspective. Examples of problem domains from past offerings include homelessness, mental illness, autism, migrant farm worker health, childhood blindness, and food security. The course will be project-centered with teams of students choosing project topics early in the semester and working towards a deployed solution by the end of the semester. Project topics may come from external partners - these partner organizations generally work on pressing social problems and provide services to communities and individuals in need. More details will be on the Canvas site, and linked from the course site, once ready. For more on the Computing-for-Good initiative, visit
+http://c4g.gatech.edu
+."
+cs-6150-overview-1,cs-6150.txt,CS 6150: Computing for Good,Overview,1,157,"CS 6150: Computing for Good — Overview
+For more on the Computing-for-Good initiative, visit
+http://c4g.gatech.edu
+. This course is not foundational and does not count toward any specializations at present, but it can be counted as a free elective. **CS 8903-C4G**
+CS 8903-C4G is a Fall Semester elective in the Online Master of Science in  Computer Science (OMSCS) program. The course focuses on the development of projects for various nonprofits around the world. In CS 6150, student teams select project topics and create solutions; by contrast, in CS 8903-C4G, student teams select prior projects from CS 6150 upon which they will improve. CS 6150 and CS 8903-C4G are separate courses. Students may take CS 8903-C4G following CS 6150, or vice versa, as neither course is a prerequisite for the other. To request a slot in CS 8903-C4G, please contact Head TA Mitchell Rysavy (
+mitchell.rysavy@gatech.edu
+). For information on registering for CS 8903-C4G, see
+this document
+."
+cs-6150-course-goals-0,cs-6150.txt,CS 6150: Computing for Good,Course Goals,0,87,"CS 6150: Computing for Good — Course Goals
+The learning objectives of the course are:
+Learn to think about computing for social good and all its complexities.
+Undertake a significant, semester-long project working on a team: Identify a problem/project/organization that you are passionate about; design, evaluate and deploy a solution.
+Develop a rudimentary understanding of a domain of social importance.
+Develop an understanding of the key issues in humanitarian computing, including sustainability, resource availability (or lack thereof), novice user design, and diversity in user and stakeholder populations."
+cs-6150-sample-syllabi-0,cs-6150.txt,CS 6150: Computing for Good,Sample Syllabi,0,39,"CS 6150: Computing for Good — Sample Syllabi
+Spring 2024 syllabus
+(PDF)
+Spring 2023 syllabus
+(PDF)
+Spring 2022 syllabus
+(PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation."
+cs-6150-course-videos-0,cs-6150.txt,CS 6150: Computing for Good,Course Videos,0,19,"CS 6150: Computing for Good — Course Videos
+You can view the lecture videos for this course
+here
+."
+cs-6150-before-taking-this-c-0,cs-6150.txt,CS 6150: Computing for Good,Before Taking This Class...,0,54,"CS 6150: Computing for Good — Before Taking This Class...
+Suggested Background Knowledge
+It is recommended that students taking this course have already completed graduate courses in at least TWO of the following topics: (A) Databases (B) Networking (C) Logistics (D) Web development (E) Global Health (F) Technology and Society (G) User Interface Design."
+cs-6150-academic-integrity-0,cs-6150.txt,CS 6150: Computing for Good,Academic Integrity,0,39,"CS 6150: Computing for Good — Academic Integrity
+All Georgia Tech students are expected to uphold the
+Georgia Tech Academic Honor Code
+. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+cs-6200-instructional-team-0,cs-6200.txt,CS 6200: Introduction to Operating Systems,Instructional Team,0,29,"CS 6200: Introduction to Operating Systems — Instructional Team
+Ada Gavrilovska
+Creator, Instructor
+Jarrod Parkes
+Course Developer
+Tho Ha
+Head TA
+Ioan Istrate
+Head TA
+VJ Parthiban
+Head TA"
+cs-6200-overview-0,cs-6200.txt,CS 6200: Introduction to Operating Systems,Overview,0,69,"CS 6200: Introduction to Operating Systems — Overview
+Introduction to Operating Systems is a graduate-level introductory course in operating systems. This course teaches basic operating system abstractions, mechanisms, and their implementations. The core of the course focuses on OS support for concurrency (threads) and synchronization, resource management (CPU, memory, I/O), and distributed services. The practical component of the course teaches multithread programming, inter-process communication, and distributed interactions via RPC."
+cs-6200-sample-syllabi-0,cs-6200.txt,CS 6200: Introduction to Operating Systems,Sample Syllabi,0,40,"CS 6200: Introduction to Operating Systems — Sample Syllabi
+Spring 2026 syllabus
+(PDF)
+Fall 2025 syllabus
+(PDF)
+Summer 2025 syllabus
+(PDF)
+Note: sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation."
+cs-6200-course-content-0,cs-6200.txt,CS 6200: Introduction to Operating Systems,Course Content,0,57,"CS 6200: Introduction to Operating Systems — Course Content
+To access the public version of this course's content, click
+here
+, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link."
+cs-6200-before-taking-this-c-0,cs-6200.txt,CS 6200: Introduction to Operating Systems,Before Taking This Class...,0,161,"CS 6200: Introduction to Operating Systems — Before Taking This Class...
+Suggested Background Knowledge
+To undertake this course, you should have taken an undergraduate level course on, or be otherwise familiar with, basic hardware and software aspects of computer systems organization. You should also be familiar with the following:
+C and C++ programming experience
+Ubuntu 22.04 LTS (or similar Linux experience, such as working from the command line)
+Using Vagrant (with VirtualBox or an alternative). Additionally, we provide a Dockerfile for users with Docker experience, as well as an environment setup guide for macOS Apple Silicon users. Using Makefiles
+Using GDB or an IDE with a debugger
+Using GCC or an IDE with gcc support
+Please review the
+CS 6200 Readiness Survey
+to determine your readiness to take this course. Technical Requirements and Software
+Browser and connection speed: An up-to-date version of Chrome, Firefox, or Edge is strongly recommended. 2+ Mbps is recommended; the minimum requirement is 0.768 Mbps download speed."
+cs-6200-before-taking-this-c-1,cs-6200.txt,CS 6200: Introduction to Operating Systems,Before Taking This Class...,1,146,"CS 6200: Introduction to Operating Systems — Before Taking This Class...
+2+ Mbps is recommended; the minimum requirement is 0.768 Mbps download speed. Operating system (64-bit OS for compatibility with 64-bit VMs):
+PC: Windows XP or higher with latest updates installed
+Mac: OS X 10.6 or higher with latest updates installed
+Note on M series Macs: Course projects use tools such as ptrace and AddressSanitizer, which have previously caused issues on M series Macs. While this appears less common now, students are encouraged to use alternate platforms or tools. Linux: any recent distribution that has the supported browsers installed
+Virtual Machine: You will be provided a virtual machine (VM) useful for performing class assignments and projects. For the projects, the supplied resources are identical to those used to test your submissions. Details for downloading and installing the VM can be found in a pinned Piazza post."
+cs-6200-academic-integrity-0,cs-6200.txt,CS 6200: Introduction to Operating Systems,Academic Integrity,0,40,"CS 6200: Introduction to Operating Systems — Academic Integrity
+All Georgia Tech students are expected to uphold the
+Georgia Tech Academic Honor Code
+. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+cs-6210-overview-0,cs-6210.txt,CS 6210: Advanced Operating Systems,Overview,0,93,"CS 6210: Advanced Operating Systems — Overview
+Advanced Operating Systems is a graduate-level course that addresses a broad range of topics in operating system design and implementation, including:
+Operating system structuring
+Synchronization, communication and scheduling in parallel systems
+Distributed systems, their communication mechanisms, distributed objects and middleware
+Failures and recovery management
+System support for Internet-scale computing
+By tracing the key ideas of today's most popular systems to their origins in research, the class highlights key developments in operating system design over the last two decades and illustrates how insight has evolved to implementation."
+cs-6210-sample-syllabi-0,cs-6210.txt,CS 6210: Advanced Operating Systems,Sample Syllabi,0,35,"CS 6210: Advanced Operating Systems — Sample Syllabi
+Spring 2026 syllabus
+(PDF)
+Fall 2025 syllabus
+(PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation."
+cs-6210-course-content-0,cs-6210.txt,CS 6210: Advanced Operating Systems,Course Content,0,56,"CS 6210: Advanced Operating Systems — Course Content
+To access the public version of this course's content, click
+here
+, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link."
+cs-6210-before-taking-this-c-0,cs-6210.txt,CS 6210: Advanced Operating Systems,Before Taking This Class...,0,182,"CS 6210: Advanced Operating Systems — Before Taking This Class...
+Suggested Background Knowledge
+Students are expected to have completed an undergraduate OS course, or have industry experience. General knowledge of operating systems content will be assumed. To gain a better understanding of the prerequisite concepts necessary for success in this course, please take
+this brief diagnostic preparedness test
+. This test is for prospective students' personal purposes, to gauge readiness for this graduate-level Advanced Operating Systems course. Another resource for students to utilize in gauging preparedness is the
+CS 6210 Prerequisites and Concepts list
+. Please take the time to review the concepts in this document. If a student does not feel comfortable with the listed tasks, it may be beneficial to review this subject matter prior to registering for the course. CS 2200
+offers a good preparation for the pre-requisites assumed in this course. To access Prof. Ramachandran's on-campus lecture recordings for CS 2200, visit the
+GT Computing Youtube channel for CS 2200
+. Technical Requirements and Software
+Hardware Requirements
+You will need a machine which supports VT-X or AMD-V. i.e."
+cs-6210-before-taking-this-c-1,cs-6210.txt,CS 6210: Advanced Operating Systems,Before Taking This Class...,1,124,"CS 6210: Advanced Operating Systems — Before Taking This Class...
+i.e. machines that run on i3, i5 or, i7 and later Intel processors OR
+Athlon 64 X2, 64 FX
+and later for AMD processors. Apple M1/M2 is currently not supported. You will need a minimum of 8GB RAM. Software Requirements
+Browser and connection speed: An up-to-date version of Chrome is required. We use proctoring software Honorlock for our examinations and it currently only supports Chrome. 2+ Mbps is recommended. Operating system:
+PC: Windows 10 or higher with latest updates installed
+Mac: OS X 10.9 or higher with latest updates installed. We do not support M1/M2 Macs. Linux: any recent distribution that has the supported browsers installed
+MS Teams will be used for office hours."
+cs-6210-academic-integrity-0,cs-6210.txt,CS 6210: Advanced Operating Systems,Academic Integrity,0,39,"CS 6210: Advanced Operating Systems — Academic Integrity
+All Georgia Tech students are expected to uphold the
+Georgia Tech Academic Honor Code
+. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+cs-6211-instructional-team-0,cs-6211.txt,CS 6211: System Design for Cloud Computing,Instructional Team,0,25,"CS 6211: System Design for Cloud Computing — Instructional Team
+Kishore Ramachandran
+Instructor
+Harshit Gupta
+Course Developer
+Enrique Saurez
+Course Developer
+Tyler Landle
+Head TA"
+cs-6211-overview-0,cs-6211.txt,CS 6211: System Design for Cloud Computing,Overview,0,124,"CS 6211: System Design for Cloud Computing — Overview
+This is a hands on project-intensive immersive course aimed at senior-level undergraduates and graduate students to give them an in-depth experience in developing different layers of a cloud computing infrastructure including software defined networks, distributed runtime systems, network function virtualization, and application development.
+The course is organized into four project-driven modules (roughly equal duration):
+Software Defined Networks (SDN)
+Cloud System Software
+Network Function Virtualization
+Cloud Applications
+Each module is organized as discussion of the technical details pertaining to that topic (from selected readings from research papers and other online resources).
+Note that this course will have weekly 90-minute synchronous meetings that must be attended.
+More information is available on the
+CS 6211 course website
+."
+cs-6211-sample-syllabus-0,cs-6211.txt,CS 6211: System Design for Cloud Computing,Sample Syllabus,0,32,"CS 6211: System Design for Cloud Computing — Sample Syllabus
+Spring 2021 syllabus
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation."
+cs-6211-before-taking-this-c-0,cs-6211.txt,CS 6211: System Design for Cloud Computing,Before Taking This Class...,0,41,"CS 6211: System Design for Cloud Computing — Before Taking This Class...
+Suggested Background Knowledge
+Students should have completed
+CS 6210
+with a letter grade of A (or high B) or have taken an equivalent course elsewhere before taking this course."
+cs-6211-academic-integrity-0,cs-6211.txt,CS 6211: System Design for Cloud Computing,Academic Integrity,0,41,"CS 6211: System Design for Cloud Computing — Academic Integrity
+All Georgia Tech students are expected to uphold the
+Georgia Tech Academic Honor Code
+. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+cs-6238-instructional-team-0,cs-6238.txt,CS 6238: Secure Computer Systems,Instructional Team,0,15,"CS 6238: Secure Computer Systems — Instructional Team
+Mustaque Ahamad
+Instructor
+Javier Rodriguez
+Head TA"
+cs-6238-overview-0,cs-6238.txt,CS 6238: Secure Computer Systems,Overview,0,152,"CS 6238: Secure Computer Systems — Overview
+Applications and services are supported by software platforms such as operating systems and databases. Secure execution of such applications depends on the trust assumptions that can be made about these systems. By providing right mechanisms for protecting sensitive information and other resources, operating systems and databases can facilitate the development of secure applications. A uniform approach for exploring security support in operating systems and databases is attractive because both types of systems must offer similar mechanisms to mediate access to protected information. This course will take such an approach and it will explore problems such as authentication and access control that are traditionally handled at the system level. Students will also gain in depth understanding of the implementations of mechanisms that address these problems and security policies that can be supported by them. System level security issues in distributed systems will be covered as well."
+cs-6238-course-goals-0,cs-6238.txt,CS 6238: Secure Computer Systems,Course Goals,0,91,"CS 6238: Secure Computer Systems — Course Goals
+After completing the course, the students should have the following capabilities:
+Demonstrate the need for a trusted computing base (TCB) and how it helps protect resources in a computer system.
+Analyze how hardware supported memory protection enables isolation of TCB and of untrusted programs.
+Develop, implement and evaluate authentication and access control in computer systems.
+Understand and evaluate security in distributed systems.
+Apply security concepts to protect data stored in database systems.
+Be familiar with recent research related to topics covered in class."
+cs-6238-sample-syllabi-0,cs-6238.txt,CS 6238: Secure Computer Systems,Sample Syllabi,0,45,"CS 6238: Secure Computer Systems — Sample Syllabi
+Spring 2023 syllabus and schedule
+(PDF)
+Summer 2021 syllabus and schedule
+(PDF)
+Spring 2021 syllabus and schedule
+(PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation."
+cs-6238-before-taking-this-c-0,cs-6238.txt,CS 6238: Secure Computer Systems,Before Taking This Class...,0,127,"CS 6238: Secure Computer Systems — Before Taking This Class...
+Suggested Background Knowledge
+An undergraduate operating systems course (Georgia Tech's course CS 3210 Design of Operating Systems or equivalent).
+System programming experience with the C programming language is highly desirable.
+Programming experience with Python.
+Technical Requirements and Software
+High-speed Internet connection
+Laptop or desktop computer with a
+minimum
+of a 2 GHz processor and 4 GB of RAM
+Windows for PC computers OR Mac iOS for Apple computers
+Complete Microsoft Office Suite or comparable and ability to use Adobe PDF software (install, download, open and convert)
+Linux operating systems familiarity, including how system calls are used
+Virtualization software such as VirtualBox and ability to create and launch virtual machines
+Software development, compiling and debugging tools as required"
+cs-6238-academic-integrity-0,cs-6238.txt,CS 6238: Secure Computer Systems,Academic Integrity,0,39,"CS 6238: Secure Computer Systems — Academic Integrity
+All Georgia Tech students are expected to uphold the
+Georgia Tech Academic Honor Code
+. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+cs-6250-instructional-team-0,cs-6250.txt,CS 6250: Computer Networks,Instructional Team,0,22,"CS 6250: Computer Networks — Instructional Team
+Maria Konte
+Instructor
+Erick Herring
+Head TA
+Johann Lau
+Head TA
+Ken Westdorp
+Head TA"
+cs-6250-overview-0,cs-6250.txt,CS 6250: Computer Networks,Overview,0,173,"CS 6250: Computer Networks — Overview
+This course provides a quick refresh of introductory material, and offers a broad coverage of protocols and algorithms that span across all layers of the Internet protocol stack. The course begins with an overview of the evolution of the Internet architecture and a short refresh of the transport layer algorithms and protocols such as TCP and congestion control. Next, the course will dive into intradomain/interdomain routing, peering and networks relationships with a follow-up into router design and functionalities. After discussing routing and router technologies, the course will continue with Software Defined Networking technologies and discuss topics that intersect Network Security and Computer Networks, for example, attacks on Internet routing such as BGP hijacking. Finally, the course wraps up with a discussion on multimedia applications and Content Delivery Networks. Throughout the course, students will work on hands-on projects to learn about routing, SDN, BGP hijacking, and Internet measurements. For students who would like to explore more, there is an additional project that engages with tools for Internet-wide measurements."
+cs-6250-overview-1,cs-6250.txt,CS 6250: Computer Networks,Overview,1,55,"CS 6250: Computer Networks — Overview
+For students who would like to explore more, there is an additional project that engages with tools for Internet-wide measurements. As part of the project, students will study how large-scale events that are associated with unrest are reflected as connectivity disruptions for networks in specific parts of the world."
+cs-6250-sample-syllabi-0,cs-6250.txt,CS 6250: Computer Networks,Sample Syllabi,0,38,"CS 6250: Computer Networks — Sample Syllabi
+Summer 2025 syllabus
+(PDF)
+Summer 2024 syllabus
+(PDF)
+Spring 2024 syllabus
+(PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation."
+cs-6250-before-taking-this-c-0,cs-6250.txt,CS 6250: Computer Networks,Before Taking This Class...,0,179,"CS 6250: Computer Networks — Before Taking This Class...
+Suggested Background Knowledge
+This class is appropriate for students with previous background in networking. Some familiarity with both network programming, scripting languages (e.g., Python), and using virtual machines will be helpful.
+If you can confidently answer “yes” to these questions, you should be fine:
+Can you explain the main distinction between TCP and UDP?
+Can you comfortably complete the
+Python tutorial
+and write basic programs in Python?
+Do you understand the three way handshake of TCP?
+Can you get files off of a virtual machine without a mapped directory?
+Technical Requirements and Software
+Browser and connection speed: An up-to-date version of Chrome or Firefox is strongly recommended. We also support Internet Explorer 9 and the desktop versions of Internet Explorer 10 and above (not the metro versions). 2+ Mbps is recommended; the minimum requirement is 0.768 Mbps download speed.
+Operating system:
+PC: Windows XP or higher with latest updates installed
+Mac: OS X 10.6 or higher with latest updates installed
+Linux: any recent distribution that has the supported browsers installed"
+cs-6250-academic-integrity-0,cs-6250.txt,CS 6250: Computer Networks,Academic Integrity,0,38,"CS 6250: Computer Networks — Academic Integrity
+All Georgia Tech students are expected to uphold the
+Georgia Tech Academic Honor Code
+. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+cs-6260-instructional-team-0,cs-6260.txt,CS 6260: Applied Cryptography,Instructional Team,0,16,"CS 6260: Applied Cryptography — Instructional Team
+Alexandra (Sasha) Boldyreva
+Creator, Instructor
+Shreya Varshney
+Head TA"
+cs-6260-overview-0,cs-6260.txt,CS 6260: Applied Cryptography,Overview,0,27,"CS 6260: Applied Cryptography — Overview
+A graduate-level introduction to modern cryptography, which focuses on the classical goals of cryptography, such as data privacy, authenticity and integrity."
+cs-6260-course-goals-0,cs-6260.txt,CS 6260: Applied Cryptography,Course Goals,0,101,"CS 6260: Applied Cryptography — Course Goals
+You will learn various cryptographic schemes and how they are used in practice. For example, you will learn what AES, CBC, RSA, DSA, TLS stand for and how they ""work"". But the main objectives are more fundamental. The goals are to build the understanding of what ""secure"" is and how to evaluate and measure security. You will also learn how to compare security of various schemes, and how to select parameters to achieve required security guarantees. Note that you will not be learning the internal details of block ciphers or how to build/implement them."
+cs-6260-sample-syllabi-0,cs-6260.txt,CS 6260: Applied Cryptography,Sample Syllabi,0,38,"CS 6260: Applied Cryptography — Sample Syllabi
+Fall 2024 syllabus
+(PDF)
+Spring 2024 syllabus
+(PDF)
+Spring 2023 syllabus
+(PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation."
+cs-6260-before-taking-this-c-0,cs-6260.txt,CS 6260: Applied Cryptography,Before Taking This Class...,0,188,"CS 6260: Applied Cryptography — Before Taking This Class...
+Suggested Background Knowledge
+No previous knowledge of cryptography is necessary. This course is about applying theory to practical problems, but it is still a theory course. The main requirement is basic ""mathematical maturity"". You have to be able to read and write mathematical definitions, statements and proofs.
+It is expected that you were successful in your undergraduate discrete math class and took basic algorithms and computability/complexity theory classes. In particular, you have to know how to measure the running time of an algorithm and how to do proofs by contradiction and contraposition. You also have to know the basics of probability theory and modular arithmetic. You should also have familiarity with Python for the coding portions of the course.
+If you cannot recall what terms like permutation, sample space, random variable, conditional probability, big-O notation mean, you should consider taking the course in a later semester and refresh your knowledge of the above topics in the meanwhile. I recommend you review an undergraduate textbook on discrete math.
+All necessary elements of number theory will be presented during the course."
+cs-6260-academic-integrity-0,cs-6260.txt,CS 6260: Applied Cryptography,Academic Integrity,0,38,"CS 6260: Applied Cryptography — Academic Integrity
+All Georgia Tech students are expected to uphold the
+Georgia Tech Academic Honor Code
+. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+cs-6261-instructional-team-0,cs-6261.txt,CS 6261: Security Incident Response,Instructional Team,0,21,"CS 6261: Security Incident Response — Instructional Team
+Jimmy Lummis
+Instructor
+Christopher Craig
+Instructor
+Kyle Koza
+Instructor
+Ross Neufeld
+Head TA"
+cs-6261-overview-0,cs-6261.txt,CS 6261: Security Incident Response,Overview,0,53,"CS 6261: Security Incident Response — Overview
+This course provides students with the background information and skill sets necessary to participate in and lead a cyber security incident response effort.
+This course is not foundational and does not count toward any specializations at present, but it can be counted as a free elective."
+cs-6261-course-goals-0,cs-6261.txt,CS 6261: Security Incident Response,Course Goals,0,76,"CS 6261: Security Incident Response — Course Goals
+Once completed, the students should have the following capabilities:
+Understand the foundational tools necessary to have a successful incident response program.
+Understand modern incident response methods and apply those methods to create an incident response process.
+Observe suspicious IT behavior and discern malicious activity.
+Apply methods of containing, eradicating, and responding to an emerging cybersecurity threat.
+Evaluate performance of a prior incident in order to improve future processes."
+cs-6261-sample-syllabi-0,cs-6261.txt,CS 6261: Security Incident Response,Sample Syllabi,0,39,"CS 6261: Security Incident Response — Sample Syllabi
+Spring 2025 syllabus
+(PDF)
+Fall 2024 syllabus
+(PDF)
+Spring 2024 syllabus
+(PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation."
+cs-6261-before-taking-this-c-0,cs-6261.txt,CS 6261: Security Incident Response,Before Taking This Class...,0,51,"CS 6261: Security Incident Response — Before Taking This Class...
+Suggested Background Knowledge
+Students should have some familiarity with system logs and log analysis tools like Splunk.  Students should also have an understanding of how computer systems and networks function.
+Technical Requirements and Software
+See Georgia Tech's
+hardware
+and
+software
+requirements."
+cs-6261-academic-integrity-0,cs-6261.txt,CS 6261: Security Incident Response,Academic Integrity,0,39,"CS 6261: Security Incident Response — Academic Integrity
+All Georgia Tech students are expected to uphold the
+Georgia Tech Academic Honor Code
+. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+cs-6262-instructional-team-0,cs-6262.txt,CS 6262: Network Security,Instructional Team,0,15,"CS 6262: Network Security — Instructional Team
+Wenke Lee
+Creator, Instructor
+Melissa Chen
+Head TA"
+cs-6262-overview-0,cs-6262.txt,CS 6262: Network Security,Overview,0,189,"CS 6262: Network Security — Overview
+Topics to be covered in CS 6262 include:
+Introduction and review of networking and security basics
+Large-scale attacks and impacts
+DDoS
+Malware-based attacks, phishing/frauds, underground economy/infrastructures
+Penetration testing and security assessments
+Basic techniques and tools
+Social engineering and human factors
+Security in Internet protocols: IP, TCP, DNS, and BGP
+Vulnerabilities in TCP/IP
+DNS cache poisoning and DNSSEC
+BGP Security
+Advanced web security
+Web security model
+Defenses against attacks on web applications
+HTTPS: goals and pitfalls
+Content security policies and web workers
+Advanced malware analysis
+Evasive malware, APT
+Mobile malware
+Advanced network monitoring
+Botnet detection (BotHunter and BotMiner)
+Internet-scale threat analysis
+Mapping the Internet, e.g., Z-map
+Domain/network reputation
+Bitcoins and crypto-currencies
+Basics of blockchains and bitcoins
+New/emerging technologies
+Big data and security
+Big data for security: applying machine learning to security analytics, e.g., building detection models
+Security of big data, in particular, adversarial machine learning: poisoning of input/training data and evasion of learned models
+Examples in malware analysis as well as web searches
+Cloud security
+“Property-preserving” encryption: goals and pitfalls
+Oblivious RAM
+Virtual-machine security
+Attack-tolerant systems
+Secret-sharing
+Byzantine fault-tolerant systems
+Attack tolerance via diversification"
+cs-6262-sample-syllabi-0,cs-6262.txt,CS 6262: Network Security,Sample Syllabi,0,38,"CS 6262: Network Security — Sample Syllabi
+Spring 2026 syllabus
+(PDF)
+Fall 2025 syllabus
+(PDF)
+Fall 2024 syllabus
+(PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation."
+cs-6262-course-content-0,cs-6262.txt,CS 6262: Network Security,Course Content,0,55,"CS 6262: Network Security — Course Content
+To access the public version of this course's content, click
+here
+, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link."
+cs-6262-before-taking-this-c-0,cs-6262.txt,CS 6262: Network Security,Before Taking This Class...,0,29,"CS 6262: Network Security — Before Taking This Class...
+Suggested Background Knowledge
+It is recommended that you have taken CS 6035: Introduction to Information Security, or an equivalent class."
+cs-6262-academic-integrity-0,cs-6262.txt,CS 6262: Network Security,Academic Integrity,0,38,"CS 6262: Network Security — Academic Integrity
+All Georgia Tech students are expected to uphold the
+Georgia Tech Academic Honor Code
+. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."

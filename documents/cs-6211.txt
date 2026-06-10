@@ -1,0 +1,39 @@
+# CS 6211: System Design for Cloud Computing
+
+## Instructional Team
+### Kishore Ramachandran
+### Instructor
+### Harshit Gupta
+### Course Developer
+### Enrique Saurez
+### Course Developer
+### Tyler Landle
+### Head TA
+
+## Overview
+This is a hands on project-intensive immersive course aimed at senior-level undergraduates and graduate students to give them an in-depth experience in developing different layers of a cloud computing infrastructure including software defined networks, distributed runtime systems, network function virtualization, and application development.
+The course is organized into four project-driven modules (roughly equal duration):
+Software Defined Networks (SDN)
+Cloud System Software
+Network Function Virtualization
+Cloud Applications
+Each module is organized as discussion of the technical details pertaining to that topic (from selected readings from research papers and other online resources).
+Note that this course will have weekly 90-minute synchronous meetings that must be attended.
+More information is available on the
+CS 6211 course website
+.
+
+## Sample Syllabus
+Spring 2021 syllabus
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+
+## Before Taking This Class...
+### Suggested Background Knowledge
+Students should have completed
+CS 6210
+with a letter grade of A (or high B) or have taken an equivalent course elsewhere before taking this course.
+
+## Academic Integrity
+All Georgia Tech students are expected to uphold the
+Georgia Tech Academic Honor Code
+. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.
