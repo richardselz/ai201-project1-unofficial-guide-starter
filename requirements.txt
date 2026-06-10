@@ -3,6 +3,10 @@ chromadb>=0.6.0
 groq==0.15.0
 python-dotenv==1.0.1
 
+# torch 2.2.2 (last x86_64 macOS wheel) is built against NumPy 1.x.
+# Requires Python 3.11-3.13 (no 3.14 wheels yet).
+numpy<2
+
 # Document ingestion (Milestone 3) — fetch and clean web pages:
 requests>=2.32.0
 beautifulsoup4>=4.12.0

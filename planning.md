@@ -95,3 +95,9 @@ The tools that will be used is Claude, all-MiniLM-L6-v2, and ChromaDB.
 
 **Milestone 5 — Generation and interface:**
 - The generation and interface portion will utilize Groq since that is the preferred AI for this particular project. Groq will receive the top five chunks and will then generate it's response utilizing the chunked data and will cite it's sources.
+
+## Stretch Features
+### Metadata Filtering
+- What: The metadata filtering now allows for the retrieval of targeted information based on whether or not the sequence "CS XXXX" is detected or not. 
+- Why: This provides the retrieval process with only the data that will provide it with the information required for answering the question.
+- Controlled: This function is controlled by the toggleable variable called `USE_METADATA_FILTER`. 
